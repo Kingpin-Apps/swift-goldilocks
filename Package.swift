@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "swift-goldilocks",
+    name: "Goldilocks",
     platforms: [
         .iOS(.v14),
         .macOS(.v13),
